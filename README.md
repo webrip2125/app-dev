@@ -9,3 +9,10 @@
 - **Kimi no Na Wa**
 - Bleach: Memories of Nobody
  
+# about-me.md
+Contains information about me
+[about-me.md](https://github.com/webrip2125/app-dev/blob/main/about-me.md)
+
+# favorites/movies.md
+Contains information about my favorite movies
+[favorites/movies.md](https://github.com/webrip2125/app-dev/blob/main/favorites/movies.md)
